@@ -1,0 +1,7 @@
+# MLflow runs downloaded from Kaggle (large model files)
+mlflow_export/
+
+# Python / Jupyter / Mac clutter
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
